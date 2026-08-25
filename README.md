@@ -61,5 +61,5 @@ The dataset contains customer demographic, household, purchasing, and campaign-r
 smartcart-customer-segmentation/
 │
 ├──  README.md
-├── smartcart_customers.csv
-└── smartcart.ipynb
+├── smartcart.ipynb
+└── smartcart_customers.csv
